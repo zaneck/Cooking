@@ -15,6 +15,6 @@ Pizza Vege
 4. Ajouter les tomates
 
 
-
-A. Mettre le gruyere au sur la pate a pizza
-B. Napper de préparation
+### Preparation
+1. Mettre le gruyere au sur la pate a pizza
+2. Napper de préparation
