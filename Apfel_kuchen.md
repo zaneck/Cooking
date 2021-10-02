@@ -10,4 +10,4 @@
 
 
 
-(beurre + sucre) + (farine + levure) + lait = Yummy
+((beurre + sucre) + (farine + levure)) + lait = Yummy
