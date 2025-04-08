@@ -1,15 +1,13 @@
 # 🍪 Cookies aux pépites de chocolat 🍫
 
 ## 🛒 Ingrédients
-- 250 g de farine
-- 125 g de beurre mou 🧈
-- 100 g de sucre roux 🍯
-- 50 g de sucre blanc 🍚
-- 1 œuf 🥚
+- 500 g de farine
+- 250 g de beurre mou 🧈
+- 150 g de sucre roux 🍯
+- 3 œuf 🥚
 - 1 cuillère à café d'extrait de vanille 🌿
-- 1/2 sachet de levure chimique 🥄
-- 1 pincée de sel 🧂
-- 150 g de pépites de chocolat 🍫
+- 1 sachet de levure chimique 🥄
+- 200 g de pépites de chocolat 🍫
 
 ## 👩‍🍳 Préparation
 1. 🔥 Préchauffez le four à 180°C (thermostat 6).
